@@ -1,2 +1,20 @@
 # PuerEM
 PuerEM - Providing medical assistance to the youngest of society
+
+When medical emergencies occur, often a clear and calm call to emergency services may quite literally mean the difference between life and death. Though this is always an ideal scenario when dealing with medical emergencies it is often not always the case especially when the ones in danger or need of emergency care and medical aid are adults. Often in an emergency call, the person on the other end of the phone may be a child who is unable to explain the gravity of the situation, is unable to articulate or clearly describe the situation or maybe facing a wide variety of emotions ranging from crying and wailing to being scared and afraid. 
+
+This is where the medical assistance app PuerEM comes in, allowing children to be trained by parents and guardians on the proper method to contact emergency services if they are ever in the need of them when they are on they're own. PuerEM provides a centralized source of a collection of emergency service phone numbers especially in cases of countries like India where a lack of a centralized emergency care number can often be very confusing for adolescents facing the need to call emergency services. Besides that, it is also built with visual and auditory cues allowing for more responsiveness and clarity from children otherwise unable to articulate their situations. It also has a built-in chatbot based on Artificial Intelligence trained specifically from recorded past cases of children talking or contacting emergency services and care allowing for a more educated response to each unique case presented to the chatbot. This will also help ensure the child remains in a state of calm rather than one of panic allowing for necessary actions to be taken by the respective emergency care agencies. It also has the added benefit of being able to understand if a child is contacting emergency services in a real case of need or one out of boredom or other non-emergency related issues which would otherwise waste precious airtime of emergency call responders. Although in most cases, this chatbot would suffice, it would also be on high alert in case it recognizes the need to contact actual medical responders if a situation is much direr than what is possible to handle by the chatbot by itself. Though this app would be able to function properly independently, it would still require parents and guardians to take out the time to teach children about this app and its various intricacies in order to ensure its use to the fullest potential.
+
+More about technical Aspects of the application:
+The AI chatbot would be based on IBM Watson Artificial Intelligence technology from which an AI assistant would be created and integrated into the app itself along with the ability to converse to children through the use of advanced machine learning. Visual and auditory cues would be built into the UI to provide a more holistic, youth-oriented experience to ensure the captivity of the attention span as well as to maintain high levels of communication.
+
+Technical Details:
+This app is currently in a critical development phase as I am currently a school student that is having to divide my time between a lot of different avenues, though with proper attention and time it will be able to bloom into the game-changer it is and can become. With a development phase of about 4-5months, I hope to be able to fully develop the User Interface, as well as code the back-end of the app to then release the application to the public and furthermore, to the general market.
+
+Potential Development Roadmap:
+1) App Idea gets selected and accepted for next stage of development - 7th August 2020
+2) Coding the back-end of the application, mainly including the AI chatbot as well as basic user data interpreters and data storage capabilities - 31st October 2020
+3) Coding Front-end capabilities of the application with designing of the relevant visual and audio components and final polishing of application - 
+31st December 2020
+4) Final Release of application - 
+1st January 2020
